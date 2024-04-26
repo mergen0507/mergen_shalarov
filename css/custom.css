@@ -1,3 +1,19 @@
-.btn-indigo {
-    background-color: rgb(red, green, blue);
+.bg-indigo-500 {
+    background-color: rgb(120, 28, 148);
+}
+.bg-image {
+    background-image: url("../img/banner-bg.png");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.header-margin-bottom {
+    margin-bottom: 5rem;
+}
+.header-margin-top {
+    margin-top: -5rem;
 }
